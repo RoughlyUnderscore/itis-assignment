@@ -37,7 +37,7 @@ jobs:
             --output ${{ github.event.inputs.output_file }}
 
       - name: Upload report artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v6
         with:
           name: student-performance-report
           path: ${{ github.event.inputs.output_file }}
