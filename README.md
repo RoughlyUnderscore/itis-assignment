@@ -1,6 +1,6 @@
 # Student Performance Analyzer
 
-![Tests](https://github.com/RoughlyUnderscore/itis-assignment/workflows/Tests/badge.svg)
+[![Tests](https://github.com/RoughlyUnderscore/itis-assignment/actions/workflows/tests.yml/badge.svg)](https://github.com/RoughlyUnderscore/itis-assignment/actions/workflows/tests.yml)
 
 ## 📚 Описание
 
